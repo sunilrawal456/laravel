@@ -1,1 +1,1 @@
-# laravel-crud-ajax
+# laravel
